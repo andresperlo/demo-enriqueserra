@@ -1,0 +1,66 @@
+.logo-css{
+    width: -webkit-fill-available;
+}
+.isotipo-css{
+    position: absolute;
+    left: 3%;
+    top: 19%;
+    width: 5%;
+    height: 15%;
+
+}
+.img-presentacion{
+    width: 100%;
+    height: 100vh;
+}
+.css-nav{
+    display: flex;
+    justify-content: center;
+}
+.css-img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.class-nav{
+    background-color: rgba(5, 15, 100);
+}
+.class-nav a{
+   color: white;
+}
+.class-UlLi ul li a{
+  color: white;
+}
+
+.class-regini ul li a{
+    color: white;
+}
+
+.redes-sociales{
+    font-size:3rem;
+    cursor: pointer;
+}
+
+.Class-Footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+@media (max-width: 600px){
+    .css-nav{
+        display: block;
+    }
+    .Class-Footer{
+        text-align: center;
+        display: block;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .planPlatacss{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
