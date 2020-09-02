@@ -13,14 +13,14 @@ function HomePage() {
     return (
         <>
             <nav class="navbar navbar-expand-lg class-nav">
-                <a class="navbar-brand" href="#">Enrique Serra</a>
+                <a class="navbar-brand" href="/">Enrique Serra</a>
                 <button class="navbar-toggler border border-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse class-UlLi navbar-collapse css-nav" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item active">
-                            <a class="nav-link" href="#">Inicio</a>
+                            <a class="nav-link" href="/">Inicio</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Servicios</a>
