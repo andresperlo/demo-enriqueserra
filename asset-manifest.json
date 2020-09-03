@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/demo-enriqueserra/static/css/main.f84651e7.chunk.css",
-    "main.js": "/demo-enriqueserra/static/js/main.66f74a0b.chunk.js",
-    "main.js.map": "/demo-enriqueserra/static/js/main.66f74a0b.chunk.js.map",
+    "main.css": "/demo-enriqueserra/static/css/main.24807093.chunk.css",
+    "main.js": "/demo-enriqueserra/static/js/main.bfdba1ef.chunk.js",
+    "main.js.map": "/demo-enriqueserra/static/js/main.bfdba1ef.chunk.js.map",
     "runtime-main.js": "/demo-enriqueserra/static/js/runtime-main.852ad51d.js",
     "runtime-main.js.map": "/demo-enriqueserra/static/js/runtime-main.852ad51d.js.map",
-    "static/js/2.52189def.chunk.js": "/demo-enriqueserra/static/js/2.52189def.chunk.js",
-    "static/js/2.52189def.chunk.js.map": "/demo-enriqueserra/static/js/2.52189def.chunk.js.map",
+    "static/js/2.90155116.chunk.js": "/demo-enriqueserra/static/js/2.90155116.chunk.js",
+    "static/js/2.90155116.chunk.js.map": "/demo-enriqueserra/static/js/2.90155116.chunk.js.map",
     "index.html": "/demo-enriqueserra/index.html",
-    "precache-manifest.dc42b89fa8dfd4bc42ccb199110d4044.js": "/demo-enriqueserra/precache-manifest.dc42b89fa8dfd4bc42ccb199110d4044.js",
+    "precache-manifest.0366f5743e4fcffdb1b5deb11cb47297.js": "/demo-enriqueserra/precache-manifest.0366f5743e4fcffdb1b5deb11cb47297.js",
     "service-worker.js": "/demo-enriqueserra/service-worker.js",
-    "static/css/main.f84651e7.chunk.css.map": "/demo-enriqueserra/static/css/main.f84651e7.chunk.css.map",
-    "static/js/2.52189def.chunk.js.LICENSE.txt": "/demo-enriqueserra/static/js/2.52189def.chunk.js.LICENSE.txt",
+    "static/css/main.24807093.chunk.css.map": "/demo-enriqueserra/static/css/main.24807093.chunk.css.map",
+    "static/js/2.90155116.chunk.js.LICENSE.txt": "/demo-enriqueserra/static/js/2.90155116.chunk.js.LICENSE.txt",
+    "static/media/ESpresentacion.png": "/demo-enriqueserra/static/media/ESpresentacion.32d80f8d.png",
+    "static/media/PlanAsist.jfif": "/demo-enriqueserra/static/media/PlanAsist.920cb0b8.jfif",
     "static/media/PortadaA.jfif": "/demo-enriqueserra/static/media/PortadaA.03661507.jfif",
     "static/media/PortadaOro.jfif": "/demo-enriqueserra/static/media/PortadaOro.5d063b70.jfif",
     "static/media/PortadaPlata.jfif": "/demo-enriqueserra/static/media/PortadaPlata.882fc3de.jfif",
+    "static/media/banner2.png": "/demo-enriqueserra/static/media/banner2.e4322655.png",
+    "static/media/logo.jfif": "/demo-enriqueserra/static/media/logo.c2e87ac6.jfif",
+    "static/media/oficina.jfif": "/demo-enriqueserra/static/media/oficina.ae1174c9.jfif",
     "static/media/presentacion.jfif": "/demo-enriqueserra/static/media/presentacion.6a879d01.jfif",
     "static/media/presentacion2.jfif": "/demo-enriqueserra/static/media/presentacion2.a2a65741.jfif",
     "static/media/presentacion3.jfif": "/demo-enriqueserra/static/media/presentacion3.f2b939df.jfif"
   },
   "entrypoints": [
     "static/js/runtime-main.852ad51d.js",
-    "static/js/2.52189def.chunk.js",
-    "static/css/main.f84651e7.chunk.css",
-    "static/js/main.66f74a0b.chunk.js"
+    "static/js/2.90155116.chunk.js",
+    "static/css/main.24807093.chunk.css",
+    "static/js/main.bfdba1ef.chunk.js"
   ]
 }

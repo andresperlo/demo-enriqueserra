@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "047626a1595e0decb773b42709bb7d64",
+    "revision": "9f3cee9c2d9e1b8598a4fe39032805a3",
     "url": "/demo-enriqueserra/index.html"
   },
   {
-    "revision": "d5f87a4abad023c6d9cc",
-    "url": "/demo-enriqueserra/static/css/main.f84651e7.chunk.css"
+    "revision": "238ed9d708104a81f0f7",
+    "url": "/demo-enriqueserra/static/css/main.24807093.chunk.css"
   },
   {
-    "revision": "357e942a87923b1ec9b5",
-    "url": "/demo-enriqueserra/static/js/2.52189def.chunk.js"
+    "revision": "f88a125cdb9129bc9388",
+    "url": "/demo-enriqueserra/static/js/2.90155116.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/demo-enriqueserra/static/js/2.52189def.chunk.js.LICENSE.txt"
+    "url": "/demo-enriqueserra/static/js/2.90155116.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5f87a4abad023c6d9cc",
-    "url": "/demo-enriqueserra/static/js/main.66f74a0b.chunk.js"
+    "revision": "238ed9d708104a81f0f7",
+    "url": "/demo-enriqueserra/static/js/main.bfdba1ef.chunk.js"
   },
   {
     "revision": "427158f177eb01f3e84b",
     "url": "/demo-enriqueserra/static/js/runtime-main.852ad51d.js"
+  },
+  {
+    "revision": "32d80f8d1c13504663f5618b52d5a534",
+    "url": "/demo-enriqueserra/static/media/ESpresentacion.32d80f8d.png"
+  },
+  {
+    "revision": "920cb0b83d6a99c2d1afa8f91d026284",
+    "url": "/demo-enriqueserra/static/media/PlanAsist.920cb0b8.jfif"
   },
   {
     "revision": "036615077f831dae179a90e231a02b65",
@@ -34,6 +42,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "882fc3de235770293c2720b049f01070",
     "url": "/demo-enriqueserra/static/media/PortadaPlata.882fc3de.jfif"
+  },
+  {
+    "revision": "e4322655517c56eb83fa385c28cad157",
+    "url": "/demo-enriqueserra/static/media/banner2.e4322655.png"
+  },
+  {
+    "revision": "c2e87ac6b67194f22ed39ac69bbf745b",
+    "url": "/demo-enriqueserra/static/media/logo.c2e87ac6.jfif"
+  },
+  {
+    "revision": "ae1174c905adc1abae1996c0b8af8015",
+    "url": "/demo-enriqueserra/static/media/oficina.ae1174c9.jfif"
   },
   {
     "revision": "6a879d011dc31b9f04ff6cbae89188b7",
