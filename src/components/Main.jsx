@@ -26,13 +26,13 @@ function Main() {
                 <div className='container'>
                     <div className='card-columns'>
                         <div >
-                            <img src={portadaoro} className="card-img-top w-75" alt="..." />
+                            <a href='/planoro'><img src={portadaoro} className="card-img-top w-75" alt="..." /></a>
                         </div>
                         <div className='planPlatacss'>
-                            <img src={portadaplata} className="card-img-top w-75" alt="..." />
+                           <a href='/planplata'> <img src={portadaplata} className="card-img-top w-75" alt="..." /> </a>
                         </div>
                         <div>
-                            <img src={portadaa} className="card-img-top w-75" alt="..." />
+                          <a href='/plana'><img src={portadaa} className="card-img-top w-75" alt="..." /></a>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Main() {
                 <div className="container">
                     <div className='card-columns d-flex justify-content-center'>
                         <div>
-                            <img src={planasist} className="card-img-top w-75" alt="..." />
+                           <a href='/planasist'><img src={planasist} className="card-img-top w-75" alt="..." /></a>
                         </div>
                     </div>
                 </div>

@@ -4,14 +4,14 @@ import '../css/HomePage.css'
 function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg class-nav">
-            <a className="navbar-brand" href="/demo-enriqueserra">Enrique Serra</a>
+            <a className="navbar-brand" href="/">Enrique Serra</a>
             <button className="navbar-toggler border border-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse class-UlLi navbar-collapse css-nav" id="navbarSupportedContent">
                 <ul className="navbar-nav">
                     <li className="nav-item active">
-                        <a className="nav-link" href="/demo-enriqueserra">Inicio</a>
+                        <a className="nav-link" href="/">Inicio</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="/servicios">Servicios</a>
@@ -20,10 +20,10 @@ function Navbar() {
                         <a className="nav-link" href="#">Prestadores</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/demo-enriqueserra/empresa">Empresa</a>
+                        <a className="nav-link" href="/empresa">Empresa</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/demo-enriqueserra/contacto">Contacto</a>
+                        <a className="nav-link" href="/contacto">Contacto</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="#">Cementerios</a>

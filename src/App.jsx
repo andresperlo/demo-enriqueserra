@@ -8,16 +8,24 @@ import Footer from './components/Footer'
 import ServicePage from './pages/ServicePage';
 import ContactPage from './pages/ContactPage';
 import BusinessPage from './pages/BusinessPage';
+import PlanOroPage from './pages/PlanOroPage';
+import PlanPlataPage from './pages/PlanPlataPage';
+import PlanAPage from './pages/PlanAPages';
+import PlanAsistPage from './pages/PlanAsistPage';
 
 function App() {
   return (
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/demo-enriqueserra/empresa' exact component={BusinessPage} />
-        <Route path='/demo-enriqueserra/contacto' exact component={ContactPage} />
+        <Route path='/planasist' exact component={PlanAsistPage} />
+        <Route path='/plana' exact component={PlanAPage} />
+        <Route path='/planplata' exact component={PlanPlataPage} />
+        <Route path='/planoro' exact component={PlanOroPage} />
+        <Route path='/empresa' exact component={BusinessPage} />
+        <Route path='/contacto' exact component={ContactPage} />
         <Route path='/servicios' exact component={ServicePage} />
-        <Route path='/demo-enriqueserra' exact component={HomePage} />
+        <Route path='/' exact component={HomePage} />
         <Route path='/' component={Error404} />
       </Switch>
       <Footer />

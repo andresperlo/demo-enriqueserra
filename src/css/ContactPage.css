@@ -17,6 +17,10 @@
     display: flex;
     justify-content: center;
 }
+.SucursalesCss i{
+    font-size: 1.2rem;
+    color: rgba(5, 15, 100);
+}
 
 @media (max-width: 600px){
     .OficinaConcepcionCss{

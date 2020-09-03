@@ -1,0 +1,10 @@
+.img-portada{
+    width: 35%;
+    height: 100%;
+}
+
+@media (max-width: 600px){
+    .img-portada{
+        width: 100%;
+    }
+}
