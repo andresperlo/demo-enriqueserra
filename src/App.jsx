@@ -16,7 +16,7 @@ function App() {
       <Switch>
         <Route path='/demo-enriqueserra/empresa' exact component={BusinessPage} />
         <Route path='/demo-enriqueserra/contacto' exact component={ContactPage} />
-        <Route path='/demo-enriqueserra/servicios' exact component={ServicePage} />
+        <Route path='/servicios' exact component={ServicePage} />
         <Route path='/demo-enriqueserra' exact component={HomePage} />
         <Route path='/' component={Error404} />
       </Switch>

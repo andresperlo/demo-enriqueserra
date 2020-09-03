@@ -14,7 +14,7 @@ function Navbar() {
                         <a className="nav-link" href="/demo-enriqueserra">Inicio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/demo-enriqueserra/servicios">Servicios</a>
+                        <a className="nav-link" href="/servicios">Servicios</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="#">Prestadores</a>
