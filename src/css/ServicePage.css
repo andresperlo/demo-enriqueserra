@@ -1,0 +1,23 @@
+.img-OficinaServ{
+    margin-right: 30px;
+}
+.UlLiServicios{
+    font-size: 1.35rem;
+    margin-left: 30px;
+}
+.ServiciosImgyUl{
+    display: flex;
+}
+
+@media (max-width: 600px){
+    .ServiciosImgyUl{
+        display: block;
+    }
+    .img-OficinaServ img{
+        width: 100%;
+    }
+    .img-OficinaServ{
+        margin: 0px;
+    }
+}
+

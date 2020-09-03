@@ -1,25 +1,6 @@
-.logo-css{
-    width: -webkit-fill-available;
-}
-.isotipo-css{
-    position: absolute;
-    left: 3%;
-    top: 19%;
-    width: 5%;
-    height: 15%;
-
-}
-.img-presentacion{
-    width: 100%;
-    height: 100vh;
-}
 .css-nav{
     display: flex;
     justify-content: center;
-}
-.css-img{
-    margin-left: auto;
-    margin-right: auto;
 }
 .class-nav{
     background-color: rgba(5, 15, 100);
@@ -30,16 +11,17 @@
 .class-UlLi ul li a{
   color: white;
 }
-
 .class-regini ul li a{
     color: white;
 }
-
-.redes-sociales{
-    font-size:3rem;
-    cursor: pointer;
+.img-presentacion{
+    width: 100%;
+    height: 100vh;
 }
-
+.css-img{
+    margin-left: auto;
+    margin-right: auto;
+}
 .Class-Footer{
     display: flex;
     justify-content: space-between;
@@ -47,9 +29,46 @@
     padding-left: 30px;
     padding-right: 30px;
 }
-
-
+.redes-sociales{
+    font-size:3rem;
+    cursor: pointer;
+}
+.divEsPresentacion{
+    display: flex;
+}
+.imgEsPresentacion{
+    width: 50%;
+}
 @media (max-width: 600px){
+    .css-nav{
+        display: block;
+    }
+    .Class-Footer{
+        text-align: center;
+        display: block;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .planPlatacss{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .divEsPresentacion{
+        display: block;
+    }
+    .imgEsPresentacion{
+        width: 100%;
+    }
+    .LetraH3EsPre h3{
+        font-size: 1.25rem;
+    }
+}
+@media (max-width: 991px){
+    .css-nav{
+        display: block;
+    }
+}
+@media (max-width: 800px){
     .css-nav{
         display: block;
     }

@@ -1,0 +1,35 @@
+.OficinaConcepcionCss{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+}
+
+.ConcepcionOfi iframe{
+    width: 75vw;
+    height: 45vh;
+}
+
+.ConcepcionOfi i{
+    color: rgba(5, 15, 100);
+}
+
+.FormCss{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 600px){
+    .OficinaConcepcionCss{
+        display: block;
+    }
+    .ConcepcionOfi iframe{
+        width: 100%;
+    }
+    .Colectivocss{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .FormCss{
+        display: block;
+    }
+}
