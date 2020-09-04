@@ -17,9 +17,23 @@
     display: flex;
     justify-content: center;
 }
+.SucursalesCss{
+    display: flex;
+    justify-content: center;
+}
 .SucursalesCss i{
     font-size: 1.2rem;
     color: rgba(5, 15, 100);
+}
+.SucursalesCss iframe{
+    width: 100%;
+}
+.SucursalAlberdicss{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.SucursalLaCochacss{
+    margin-left: 20px;
 }
 
 @media (max-width: 600px){
@@ -35,5 +49,14 @@
     }
     .FormCss{
         display: block;
+    }
+    .SucursalesCss{
+        display: block;
+    }
+    .SucursalAlberdicss{
+        margin: 0;
+    }
+    .SucursalLaCochacss{
+        margin: 0;
     }
 }
