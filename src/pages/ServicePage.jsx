@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/ServicePage.css'
-import banner from '../img/banner2.png'
+import banner from '../img/banner3.png'
 import oficinaServicio from '../img/oficina.jfif'
 
 function ServicePage() {

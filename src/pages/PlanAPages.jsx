@@ -28,6 +28,9 @@ function PlanAPage() {
                             <li>TRÁMITES NECESARIOS EN EL REGISTRO CIVIL</li>
                             <p>Si el siniestro se produjera en las localidades donde la Empresa posee sucursal</p>
                         </ul>
+                        <div className='d-flex justify-content-center'>
+                            <a href='/comprarplan' className='btn btn-primary btnPlanCss' target='_blank'>Adquirir Plan</a>
+                        </div>
                     </div>
                 </div>
             </div>

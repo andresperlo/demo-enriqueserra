@@ -39,6 +39,10 @@
 .imgEsPresentacion{
     width: 50%;
 }
+.portada-css{
+    width: 100%;
+    height: 100vh;
+}
 @media (max-width: 600px){
     .css-nav{
         display: block;
@@ -62,24 +66,8 @@
     .LetraH3EsPre h3{
         font-size: 1.25rem;
     }
-}
-@media (max-width: 991px){
-    .css-nav{
-        display: block;
-    }
-}
-@media (max-width: 800px){
-    .css-nav{
-        display: block;
-    }
-    .Class-Footer{
-        text-align: center;
-        display: block;
-        padding-right: 0;
-        padding-left: 0;
-    }
-    .planPlatacss{
-        margin-top: 10px;
-        margin-bottom: 10px;
+    .portada-css{
+        width: 100%;
+        height:30vh;
     }
 }

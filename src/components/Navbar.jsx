@@ -17,7 +17,7 @@ function Navbar() {
                         <a className="nav-link" href="/servicios">Servicios</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Prestadores</a>
+                        <a className="nav-link" href="/prestadores">Prestadores</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="/empresa">Empresa</a>
@@ -26,7 +26,7 @@ function Navbar() {
                         <a className="nav-link" href="/contacto">Contacto</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Cementerios</a>
+                        <a className="nav-link" href="/cementerio">Cementerio</a>
                     </li>
                     <li className="nav-item d-lg-none d-sm-block">
                         <a className="nav-link" href="#">Registrarse</a>

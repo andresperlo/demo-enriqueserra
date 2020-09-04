@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/PlanOroPage.css'
-import planAsist from '../img/PlanAsist.jfif'
+import planAsist from '../img/PlanAsist.jpeg'
 
 function PlanAsistPage() {
     return (
@@ -36,6 +36,9 @@ function PlanAsistPage() {
                             <li>SERVICIO DE SEPELIO</li>
                             <p>Alta Calidad y Jerarquia - Salas Velatorias - Ataud hasta medida standard</p>
                         </ul>
+                        <div className='d-flex justify-content-center'>
+                            <a href='/comprarplan' className='btn btn-primary btnPlanCss' target='_blank'>Adquirir Plan</a>
+                        </div>
                     </div>
                 </div>
             </div>

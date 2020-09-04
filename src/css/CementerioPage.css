@@ -1,0 +1,16 @@
+.img-entrada{
+    width: 100%;
+    height: 100vh;
+}
+.CementerioCss{
+    display: flex;
+    justify-content: center;
+}
+.CementerioCss2{
+    display: flex;
+}
+
+.cards-imgcss{
+    width: 100%;
+    height: 18rem;
+}

@@ -12,12 +12,20 @@ import PlanOroPage from './pages/PlanOroPage';
 import PlanPlataPage from './pages/PlanPlataPage';
 import PlanAPage from './pages/PlanAPages';
 import PlanAsistPage from './pages/PlanAsistPage';
+import PrestadoresPage from './pages/PrestadoresPage';
+import ProfesionalPage from './pages/ProfesionalPage';
+import ComprarPlanPage from './pages/ComprarPlanPage';
+import CementerioPage from './pages/CementerioPage';
 
 function App() {
   return (
     <Router>
       <Navbar />
       <Switch>
+        <Route path='/cementerio' exact component={CementerioPage} />
+        <Route path='/comprarplan' exact component={ComprarPlanPage} />
+        <Route path='/profesional' exact component={ProfesionalPage} />
+        <Route path='/prestadores' exact component={PrestadoresPage} />
         <Route path='/planasist' exact component={PlanAsistPage} />
         <Route path='/plana' exact component={PlanAPage} />
         <Route path='/planplata' exact component={PlanPlataPage} />
